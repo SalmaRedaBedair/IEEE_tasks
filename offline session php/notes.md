@@ -1,0 +1,4 @@
+- GEt used for filteration(book mark) because it modify link
+- post has no linmit but git has limit 2000 chars
+- get not send files post only do that
+- 

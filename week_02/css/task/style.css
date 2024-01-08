@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+}
+
+.shape {
+    width: 33%;
+    float: left;
+    /* display: inline-block; */
+    background-color: #EEE;
+    padding: 25px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: lighter;
+    letter-spacing: 0.2px;
+    font-family: sans-serif;
+    outline: black solid 5px;
+    border-width: 5px; 
+    text-align: center;
+}
+
+.shape1{
+    border-color: red;
+}
+
+.shape2{
+    border-color: blue green;
+}  
+
+.shape3{
+    border-color: red green blue yellow;
+    
+}
+
+.border-solid{
+    border-style: solid;
+}
+
+.border-dashed{
+    border-style: dashed;
+}
